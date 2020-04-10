@@ -77,8 +77,9 @@ span {
 }
 
 p {
-    font-family: var(--Lexend);
-    color: var(--text-light);
+    font-family: var(--Josefin);
+    color: var(--white);
+    font-size: 1.2rem;
 }
 
 .text-white {
@@ -532,7 +533,7 @@ footer.footer .container>div {
 }
 
 footer.footer .container h2 {
-    color: var(--white);
+    color: var(--blue);
 }
 
 footer.footer .newsletter .form-element {
@@ -586,7 +587,7 @@ footer.footer .move-up {
 }
 
 footer.footer .move-up span {
-    color: var(--midnight);
+    color: var(--blue);
 }
 
 footer.footer .move-up span:hover {
